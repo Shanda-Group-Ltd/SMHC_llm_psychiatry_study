@@ -3,3 +3,5 @@ classification_code/DN/features/TFIDF_full-conversation_DN.csv filter=lfs diff=l
 classification_code/ADMN/features/TFIDF_full-conversation_ADMN.csv filter=lfs diff=lfs merge=lfs -text
 classification_code/ADN/features/TFIDF_full-conversation_ADN.csv filter=lfs diff=lfs merge=lfs -text
 classification_code/AN/features/TFIDF_full-conversation_AN.csv filter=lfs diff=lfs merge=lfs -text
+classification_code/**/TFIDF_full-conversation_*.csv filter=lfs diff=lfs merge=lfs -text
+classification_code/**/opensmile_*.csv filter=lfs diff=lfs merge=lfs -text
