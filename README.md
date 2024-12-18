@@ -6,11 +6,13 @@ Official implementation of the paper "Identifying Psychiatric Manifestations in 
 
 <img src="doc/study_pipeline_20241127.png" alt="System Overview" width="400" height="auto">
 
-## Dataset
+## SMHC_psychiatry Dataset
 
 We open source the intermediate feature sets and labels in each classification folder.
 
 The related dialogue data and EMR data are waiting for approval under Ethics Review Board for opening to the public.
+
+You can apply the access of the data set by email to: shihao.xu@thetahealth.ai, ianhua.chen@smhc.org.cn, xun.jiang@thetahealth.ai.
 
 ## Requirements
 
