@@ -12,7 +12,7 @@ We open source the intermediate feature sets and labels in each classification f
 
 The related dialogue data and EMR data are waiting for approval under Ethics Review Board for opening to the public.
 
-You can apply the access of the data set by email to: shihao.xu@thetahealth.ai, ianhua.chen@smhc.org.cn, xun.jiang@thetahealth.ai.
+You can apply the access of the data set by email to: xun.jiang@thetahealth.ai, jianhua.chen@smhc.org.cn, or shihao.xu@thetahealth.ai, 
 
 ## Requirements
 
